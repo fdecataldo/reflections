@@ -32,4 +32,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    I want to make changes in separate branches when I want to try new
+    features or something I'm not sure to incorporate into master branch.
+    After I can pull request or directly merge into master.
