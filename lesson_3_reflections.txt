@@ -24,7 +24,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I think I would use email or google drive.
+    Without git and github it's difficult to track changes or highlight the differences between two versions of some file.
+    But there's some additional work to track evertything and to learn how to do it.
+    So all the collaborators must know how to manage git and github.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
